@@ -44,9 +44,8 @@ VulnHunt-GPT/
 └── README.md
 ```
 
-````
-
 ---
+
 
 ## ⚙️ Yêu cầu cài đặt
 
@@ -163,4 +162,3 @@ _Truy cập trình duyệt tại: `http://localhost:5173_`
 - Kiểm tra xem Server có báo lỗi 500 không.
 
 ---
-````
