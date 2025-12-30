@@ -1,0 +1,14 @@
+# Chặn các file model Deep Learning nặng
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.h5
+*.onnx
+
+# Chặn thư mục kết quả train và data
+server/**/results/
+server/**/data/processed/
+server/**/data_raw/
+server/**/__pycache__/
